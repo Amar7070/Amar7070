@@ -46,22 +46,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amar7070&show_icons=true&theme=github_dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar7070&layout=compact&theme=github_dark" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amar7070&theme=github-dark"/>
-</p>
-
----
 
 ## 🎯 Current Goals
 
@@ -75,8 +59,8 @@
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/Amar7070
-- LinkedIn: *Add your LinkedIn profile here*
-- LeetCode: *Add your LeetCode profile here*
+- LinkedIn: www.linkedin.com/in/amar-sahani07
+- LeetCode: https://leetcode.com/u/Amar771257
 
 ---
 
